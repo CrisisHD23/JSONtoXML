@@ -1,0 +1,16 @@
+[
+  {
+    "origin": "",
+    "target": "OrderActionType",
+    "static_value" : "A"
+  },
+  {
+    "origin": "extension_attributes.syspro_id",
+    "target": "Customer"
+  },
+  {
+    "origin": "shipping_description",
+    "target": "ShippingInstrs",
+    "convert_function": "return value.substring(0, 19)"
+  }
+]
