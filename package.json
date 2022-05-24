@@ -1,9 +1,11 @@
 {
-  "name": "jsontoxml",
+  "name": "@crisishd23/jsontoxml",
   "version": "1.0.0",
   "description": "Hi! Welcome to our development test.",
   "main": "index.js",
   "scripts": {
+    "build": "build --production",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -18,6 +20,6 @@
   },
   "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme",
   "publishConfig": {
-    "CrisisHD23:registry": "https://npm.pkg.github.com"
+    "@crisishd23:registry": "https://npm.pkg.github.com"
   }
 }
