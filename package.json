@@ -1,12 +1,20 @@
 {
-  "name": "node-test",
+  "name": "jsontoxml",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hi! Welcome to our development test.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Gabriel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisisHD23/JSONtoXML.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CrisisHD23/JSONtoXML/issues"
+  },
+  "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme"
 }
