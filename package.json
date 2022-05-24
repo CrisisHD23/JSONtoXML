@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme",
   "publishConfig": {
-    "@crisishd23:registry": "https://npm.pkg.github.com/"
+    "@crisishd23:registry": "https://npm.pkg.github.com"
   }
 }
