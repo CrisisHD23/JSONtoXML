@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CrisisHD23/JSONtoXML/issues"
   },
-  "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme"
+  "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme",
+  "publishConfig": {
+    "CrisisHD23:registry": "https://npm.pkg.github.com"
+  }
 }
