@@ -1,7 +1,7 @@
 {
-  "name": "jsontoxml",
+  "name": "@crisishd23/jsontoxml",
   "version": "1.0.1",
-  "description": "Hi! Welcome to our development test.",
+  "description": "a simple json to xml converter",
   "main": "index.js",
   "scripts": {
     "build": "build --production",
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/CrisisHD23/JSONtoXML#readme",
   "publishConfig": {
-    "@crisishd23:registry": "https://npm.pkg.github.com"
+    "@crisishd23:registry": "https://npm.pkg.github.com/"
   }
 }
