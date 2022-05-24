@@ -1,6 +1,6 @@
 {
-  "name": "@crisishd23/jsontoxml",
-  "version": "1.0.0",
+  "name": "jsontoxml",
+  "version": "1.0.1",
   "description": "Hi! Welcome to our development test.",
   "main": "index.js",
   "scripts": {
